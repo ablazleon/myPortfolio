@@ -1,4 +1,4 @@
-My portfolio, thanks to the boilerplate of:
+My portfolio, based on this boilerplate:
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
